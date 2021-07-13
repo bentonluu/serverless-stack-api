@@ -20,5 +20,8 @@
     "@aws-cdk/core": "1.111.0",
     "@serverless-stack/cli": "0.32.1",
     "@serverless-stack/resources": "0.32.1"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.0.7"
   }
 }
