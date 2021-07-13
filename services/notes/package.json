@@ -21,5 +21,8 @@
   },
   "dependencies": {
     "uuid": "^7.0.3"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.0.7"
   }
 }
