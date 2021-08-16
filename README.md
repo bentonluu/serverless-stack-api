@@ -25,7 +25,7 @@ A demo version of this service is hosted on AWS - [`https://z6pv80ao4l.execute-a
 
 And here is the ES6 source behind it
 
-``` javascript 
+``` javascript
 export const hello = async (event, context) => {
   return {
     statusCode: 200,
